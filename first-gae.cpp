@@ -2,5 +2,5 @@
 using namespace std;
 int main()
 {
-  cout<<"EST PRACTICAL";
+  cout<<"EST PRACTICAL\n";
 }
